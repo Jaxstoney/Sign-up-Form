@@ -1,0 +1,1 @@
+This is a webpage made for The Odin Project and the point is to showcase form controls, how to style them and validate user input.
