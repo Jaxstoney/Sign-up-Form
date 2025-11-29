@@ -1,0 +1,25 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+    margin: 0;
+}
+
+
+
+.outside-container {
+    display: inline-block;
+    height: 100%;
+}
+
+.logo-container {
+    background-image: url('halie-west-25xggax4bSA-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 120vh;
+    width: 36vw;
+}
+
