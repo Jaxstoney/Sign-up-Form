@@ -144,6 +144,7 @@ footer {
     border: 1px solid var(--input-box-color);
 }
 
+
 .input-box:invalid {
     border-color: red; 
 }
