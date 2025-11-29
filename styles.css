@@ -10,7 +10,9 @@
 
 
 :root {
+    --parapraph-font-color: #3a3a3a;
     --textcolor: #e7e6e6;
+    font-family: text-font;
 }
 
 body {
@@ -70,7 +72,6 @@ a {
 
 
 footer {
-    font-family: text-font;
     font-size: x-small;
     text-align: center;
     color: var(--textcolor);
@@ -83,4 +84,23 @@ footer {
 .right-side-container {
     width: 63vw;
 }
+
+.text-container-one {
+    display: flex;
+    height: 38%;
+}
+
+
+.text-box-one {
+    position: relative;
+    left: 60px;
+    top: 150px;
+    font-weight: 700;
+    color: var(--parapraph-font-color);
+    text-align: start;
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+}
+
 
